@@ -6,16 +6,16 @@ body {
 }
 
 header {
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px blue;
     padding: 20px;
     font-size: 32px;
-    color: red;
+    color: white;
 }
 
 .chamada {
-    color: red;
-    padding-bottom: 80px;
-    padding-top: 80px;
+    color: palegoldenrod;
+    padding-bottom: 190px;
+    padding-top: 120px;
     display: flex;
     justify-content: center;
 }
